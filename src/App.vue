@@ -1,17 +1,18 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <h1>FargoRate Team Builder</h1>
+    <h4>search for players by name below and add them to your roster by hitting ' + '. Identify required players (IE yourself) with ' ☆ '</h4>
+    <hr>
+    <playerSearch></playerSearch>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
-
+import playerSearch from './components/playerSearch.vue'
 export default {
   name: 'app',
   components: {
-    HelloWorld
+    playerSearch
   }
 }
 </script>
@@ -24,5 +25,8 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
+  margin-left:auto;
+  margin-right:auto;
+  max-width:720px;
 }
 </style>
