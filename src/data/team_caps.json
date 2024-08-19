@@ -1,0 +1,47 @@
+[
+  {
+    "description": "Plat Teams",
+    "cap": 1750,
+    "num": 3
+  },
+  {
+    "description": "Gold Teams",
+    "cap": 1550,
+    "num": 3
+  },
+  {
+    "description": "Silver Teams",
+    "cap": 1375,
+    "num": 3
+  },
+  {
+    "description": "Bronze Teams",
+    "cap": 1200,
+    "num": 3
+  },
+  {
+    "description": "Elite Scotch",
+    "cap": 1250,
+    "num": 2
+  },
+  {
+    "description": "Plat Scotch",
+    "cap": 1100,
+    "num": 2
+  },
+  {
+    "description": "Gold Scotch",
+    "cap": 1000,
+    "num": 2
+  },
+  {
+    "description": "Silver Scotch",
+    "cap": 900,
+    "num": 2
+  },
+  {
+    "description": "Bronze Scotch",
+    "cap": 800,
+    "num": 2
+  }
+]
